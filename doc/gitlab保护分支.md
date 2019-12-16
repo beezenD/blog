@@ -25,9 +25,9 @@ git push origin master:master -f ## remote: GitLab: You are not allowed to force
 
 ## 解决方法
 
-1.取消分支保护
-2.代码强制推送到远程
-3.重新分支保护
+1. 取消分支保护
+2. 代码强制推送到远程
+3. 重新分支保护
 
 代码参考：
 （分支保护可直接调用gitlab服务api接口修改）

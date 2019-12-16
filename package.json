@@ -1,0 +1,30 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "## 最后",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "digo": "^0.2.0",
+    "highlight.js": "^9.17.1",
+    "markdown-it": "^10.0.0",
+    "markdown-it-checkbox": "^1.1.0",
+    "markdown-it-container": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beezenD/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beezenD/blog/issues"
+  },
+  "homepage": "https://github.com/beezenD/blog#readme"
+}

@@ -15,7 +15,7 @@
     "markdown-it-container": "^2.0.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "doc": "node scripts/doc.js"
   },
   "repository": {
     "type": "git",

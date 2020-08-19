@@ -2,7 +2,6 @@
 libs/
 dist
 mocks/
-scripts/
 
 ## 生成文件
 /_*

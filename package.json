@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "1.0.0",
-  "description": "## 最后",
+  "description": "前端的自我成长记录，项目的经验和生活的积累。",
   "main": "index.js",
   "directories": {
     "doc": "doc"

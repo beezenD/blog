@@ -6,16 +6,15 @@
   "directories": {
     "doc": "doc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
   "devDependencies": {
-    "digo": "^0.2.0",
-    "highlight.js": "^9.17.1",
-    "markdown-it": "^10.0.0",
-    "markdown-it-checkbox": "^1.1.0",
-    "markdown-it-container": "^2.0.0"
+    "digo": "^0.2.0"
   },
   "scripts": {
-    "doc": "node scripts/doc.js"
+    "doc": "node scripts/doc.js",
+    "pub": "node scripts/publish.js"
   },
   "repository": {
     "type": "git",

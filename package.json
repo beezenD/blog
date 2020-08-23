@@ -7,7 +7,9 @@
     "doc": "doc"
   },
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "js-yaml": "^3.14.0",
+    "yamljs": "^0.3.0"
   },
   "devDependencies": {
     "digo": "^0.2.0"

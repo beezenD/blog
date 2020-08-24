@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "前端的自我成长记录，项目的经验和生活的积累。",
   "main": "index.js",
+  "isBlog": true,
   "directories": {
     "doc": "doc"
   },
   "dependencies": {
     "inquirer": "^7.3.3",
-    "js-yaml": "^3.14.0",
-    "yamljs": "^0.3.0"
+    "js-yaml": "^3.14.0"
   },
   "devDependencies": {
     "digo": "^0.2.0"
